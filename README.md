@@ -11,6 +11,7 @@
 - 🔭 I’m currently working on **[CVRS_SOLUTION](https://github.com/mokbhai/CVRS_SOLUTION)**, a project aimed at revolutionizing vehicle registration systems.
 - 🌱 I’m currently diving deep into **Astro.js** and exploring modern web development frameworks.
 - 👯 I’m looking to collaborate on **[RESUMES](https://github.com/mokbhai/resumes)**, a project to simplify resume creation.
+- 👯 & on **[UTILS](https://github.com/mokbhai/utils)**, microservices that every developer should use, such as messaging services, image converters, and WhatsApp bots.
 - 💡 I love solving problems, building scalable applications, and contributing to open-source projects.
 - 👨‍💻 Check out all my projects and portfolio at **[mokshitjain.netlify.app](https://mokshitjain.netlify.app/)**.
 - 📫 Reach me at **mokshitjain18@gmail.com**.
