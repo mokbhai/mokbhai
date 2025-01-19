@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;IOT+Engineer;Tech+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 ---
@@ -103,13 +103,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mokbhai&show_icons=true&locale=en&layout=compact&theme=radical" alt="mokbhai" />
 </p>
-
----
-
-### 🏆 Achievements:
-- **Open Source Contributions**: Actively contributing to open-source projects and communities.
-- **Competitive Programming**: Solved numerous problems on platforms like Codeforces, LeetCode, and GeeksforGeeks.
-- **Tech Blogger**: Sharing knowledge and insights through blogs and tutorials.
 
 ---
 
