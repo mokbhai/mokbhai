@@ -108,4 +108,4 @@
 ---
 
 ### 💡 Fun Fact:
-When I'm not coding, you can find me exploring new tech trends, playing chess, or binge-watching sci-fi movies! 🎥♟️
+When I'm not coding, you can find me exploring new tech trends, playing chess, or tweaking my servers 🎥♟️
