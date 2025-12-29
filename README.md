@@ -1,87 +1,113 @@
+
 <h1 align="center">Hi 👋, I'm Mokshit Jain</h1>
 <h3 align="center">A Passionate Full-Stack Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Engineer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍💻 About Me:
-
-* 🔭 Currently building **AI-powered platforms** and **WhatsApp bots** at **AIRIA**, improving performance & automation.
-* 🚀 Project highlights: [CVRS\_SOLUTION](https://github.com/mokbhai/CVRS_SOLUTION) – processed 10K+ daily vehicle movements for Ministry of Defence, reducing workflow time by 85%.
-* 🧠 Developing AI-based runners’ assistant using agents, Playwright scripts & Chrome extensions.
-* 📄 Explore my portfolio and resume: **[mokshitjain.jainparichay.online](https://mokshitjain.jainparichay.online/)**
-* 📫 Reach out: **[mokshitjain18@gmail.com](mailto:mokshitjain18@gmail.com)**
-
----
-
-### ⚙️ Projects I’m Proud Of:
-
-* 🎥 [AutoTube](https://www.youtube.com/@mokbhaimj): AI tool that converts text to multi-lingual videos using TTS & FFmpeg.
-* ♿ [Thrombocizer](https://youtu.be/9ZLigz-kPJo): IoT device that helps paralyzed patients exercise their legs using ESP32.
-* 📝 [Resumes](https://github.com/mokbhai/resumes): Simplifying resume creation for developers and students.
-* 🧰 [Utils](https://github.com/mokbhai/utils): Handy microservices – from WhatsApp bots to file converters.
-
----
-
-### 🌐 Connect with Me:
-
-<p align="left">
-  <a href="https://linkedin.com/in/mokshit-jain" target="_blank">
+  <a href="https://linkedin.com/in/mokshit-jain">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/c/mokbhaimj" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://github.com/mokbhai">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://codeforces.com/profile/mokshitjain18" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-%23F59F00.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  <a href="mailto:mokshitjain18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.leetcode.com/mokbhaimj" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/mokshitwsdn" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  <a href="https://mokshit-bio.jainparichay.in/">
+    <img src="https://img.shields.io/badge/Bio-00979D?style=for-the-badge&logo=about.me&logoColor=white" alt="Bio" />
   </a>
 </p>
-
----
-
-### 🛠️ Tech Stack & Tools:
-
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-</p>
-
----
-
-### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokbhai&show_icons=true&theme=radical" alt="mokbhai" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokbhai&theme=radical" alt="mokbhai" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokbhai&layout=compact&theme=radical" alt="mokbhai" />
+  <a href="tel:+917000209021">
+    <strong>+91-7000209021</strong>
+  </a>
 </p>
 
 ---
 
-### 💡 Fun Fact:
+## 🎯 Career Objective
 
-When I'm not coding, I'm probably playing chess ♟️, exploring new AI tools 🤖, or automating life’s little tasks ☕.
+Resourceful Computer Science student and versatile software developer with a passion for technology, product innovation, and emotional wellness. Eager to work directly with founders to ideate, research, and develop solutions that drive impact. Adept at collaborating with cross-functional teams, conducting research, and applying AI, automation, and data-driven approaches to solve real-world problems.
+
+---
+
+## 🎓 Education
+
+**Lovely Professional University**  
+B.Tech, Computer Science (2022–2026) | CGPA: 7.8/10
+
+---
+
+## 💼 Relevant Experience
+
+### Software Developer Intern – AIRIA (Apr 2025 – Present, Remote)
+
+* Worked closely with product and leadership teams to **ideate, develop, and deliver** AI-powered solutions.
+* **Managed client communications**, **coordinated product demos**, and ensured **smooth client onboarding and feedback integration**.
+* Currently developing an **advanced UI testing tool** that automates browser interactions and website testing, leveraging **AI-agents automation and LangGraph workflows**.
+* Led end-to-end development of a **fitness application**, integrating both AI agents and user-centred design to improve health and workout outcomes.
+* Actively participated in **sprint reviews**, and **cross-functional collaboration**, ensuring a clear understanding of business needs and user experience.
+
+### Freelancer – Innovation Studio LPU & Ministry of Defence (Nov 2024 – Jan 2025)
+
+* Collaborating with stakeholders to **define requirements and deliver features ahead of schedule.**
+* **Architectured microservices** for vehicle validation, checkpoint logging, and e2e monitoring with **optimised Prisma PostgreSQL queries**.
+* Enhanced system security with **Permission Management, Role-Based Access Control (RBAC), and secure session management**.
+* Demo Link: [https://youtu.be/3xswnyAoGAU](https://youtu.be/3xswnyAoGAU)
+
+---
+
+## 🔑 Key Projects
+
+### AutoTube: AI-Powered Text-to-Video Generator
+
+* Developed **pipeline that converts text into YouTube-ready videos**, automating content creation process.
+* Integrated **multilingual support** and **natural voiceovers** using Python, Google Translate, and Edge TTS.
+* Youtube Channel Link: [https://www.youtube.com/@mokbhaimj](https://www.youtube.com/@mokbhaimj)
+
+### Thrombocizer: Assistive Exercise Device
+
+* **Led technical development** for a wellness-focused **leg movement device** for paralysed patients.
+* Developed **easy-to-use interfaces** and **real-time monitoring tools**, keeping user well-being at the centre of product design.
+
+---
+
+## 🛠️ Product & Cross-functional Skills
+
+* Product Ideation & Management, Data-driven Decision Making, Agile Methodologies.
+* Communication, critical thinking, and teamwork abilities.
+* Stakeholder Management, User-Centric Design.
+
+---
+
+## 💻 Technical Skills
+
+* **Programming:** JavaScript, Python, Node.js, SQL
+* **AI/Automation:** AI Agents, LangGraph WhatsApp Bots, OpenAI
+* **Frameworks:** Astro.js, Next.js, Nest.js
+* **DevOps:** Git, Docker, AWS EC2, CI/CD
+* **Databases:** MongoDB, PostgreSQL, ChromaDB, Pinecone
+
+---
+
+## 🏆 Awards
+
+* **1st Runner Up**, MEDHA Medical Device Hackathon 2024
+* Hack IT Sapiens 2.0 Participant
+
+---
+
+## 📋 Extra Details
+
+1. **Graduating Year:** 2026
+2. **Current Location:** Bhawani Mandi, Rajasthan, 326502
+3. **Willing to relocate:** Yes
+4. **Notice Period:** 45 days
+5. **Latest available to join:** 1st January 2026
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+connect+:+)" alt="Typing SVG" />
+</p>
+
