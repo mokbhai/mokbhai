@@ -73,11 +73,15 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokbhai&show_icons=true&theme=radical" alt="mokbhai" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokbhai&theme=radical" alt="mokbhai" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokbhai&layout=compact&theme=radical" alt="mokbhai" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mokbhai&theme=radical" alt="Profile Details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mokbhai&theme=radical" alt="Top Languages by Repo" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mokbhai&theme=radical" alt="Top Languages by Commits" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mokbhai&theme=radical" alt="Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokbhai&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
