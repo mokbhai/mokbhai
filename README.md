@@ -11,7 +11,7 @@
 
 * 🔭 Building AI-driven SaaS products at **AIRIA** — working on LLM pipelines, WhatsApp automation, and agent systems.
 * 🧠 Shipping real products — from AI storybooks to text-to-video pipelines to fitness platforms.
-* 📄 Portfolio: **[mokshitjain.jainparichay.online](https://mokshitjain.jainparichay.in/)**
+* 📄 Portfolio: **[mokshitjain.jainparichay.in](https://mokshitjain.jainparichay.in/)**
 * 📫 Reach out: **[mokshitjain18@gmail.com](mailto:mokshitjain18@gmail.com)**
 
 ---
