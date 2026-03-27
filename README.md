@@ -1,29 +1,29 @@
 <h1 align="center">Hi 👋, I'm Mokshit Jain</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India 🚀</h3>
+<h3 align="center">Full-Stack Developer & AI Engineer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Engineer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Engineer;Product+Builder;Always+Learning!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me:
 
-* 🔭 Currently building **AI-powered platforms** and **WhatsApp bots** at **AIRIA**, improving performance & automation.
-* 🚀 Project highlights: [CVRS\_SOLUTION](https://github.com/mokbhai/CVRS_SOLUTION) – processed 10K+ daily vehicle movements for Ministry of Defence, reducing workflow time by 85%.
-* 🧠 Developing AI-based runners’ assistant using agents, Playwright scripts & Chrome extensions.
-* 📄 Explore my portfolio and resume: **[mokshitjain.jainparichay.online](https://mokshitjain.jainparichay.online/)**
+* 🔭 Building AI-driven SaaS products at **AIRIA** — working on LLM pipelines, WhatsApp automation, and agent systems.
+* 🧠 Shipping real products — from AI storybooks to text-to-video pipelines to fitness platforms.
+* 📄 Portfolio: **[mokshitjain.jainparichay.online](https://mokshitjain.jainparichay.in/)**
 * 📫 Reach out: **[mokshitjain18@gmail.com](mailto:mokshitjain18@gmail.com)**
 
 ---
 
-### ⚙️ Projects I’m Proud Of:
+### ⚡ Projects I'm Building:
 
-* 🎥 [AutoTube](https://www.youtube.com/@mokbhaimj): AI tool that converts text to multi-lingual videos using TTS & FFmpeg.
-* ♿ [Thrombocizer](https://youtu.be/9ZLigz-kPJo): IoT device that helps paralyzed patients exercise their legs using ESP32.
-* 📝 [Resumes](https://github.com/mokbhai/resumes): Simplifying resume creation for developers and students.
-* 🧰 [Utils](https://github.com/mokbhai/utils): Handy microservices – from WhatsApp bots to file converters.
-
+* 🤖 [**Vox**](https://github.com/mokbhai/VOX) — AI-powered text rewriting & offline speech-to-text for macOS. Select text anywhere, right-click, rewrite instantly. System-wide context menu, global hotkeys, multi-language support.
+* 📖 [**YourMitra**](https://yourmitra.com/) — AI-powered personalized storybook platform. Generates illustrated, narrated stories from prompts. 10x faster generation (20min → 2min), multi-language narration via ElevenLabs, RazorPay integration.
+* 🧪 [**DrCode**](http://drcode.ai/) — Text-to-Test platform. Write tests in plain English → executable Playwright scripts. Self-healing tests, real-time browser view, 80% faster test creation.
+* 🎥 [**AutoTube**](https://www.youtube.com/@mokbhaimj) — AI pipeline converting text → multilingual YouTube videos. TTS, FFmpeg, auto-upload. 10+ videos/day automated.
+* ♿ **Thrombocizer** — IoT assistive exercise device for paralyzed patients. ESP32, React Native, Firebase. 1st Runner Up — MEDHA Medical Device Hackathon 2024.
+* 🏃 **RunApp** — Microservices fitness platform integrating Strava & Garmin APIs. Personalized workout plans, AI pace calculator for race prediction, WhatsApp notifications.
 ---
 
 ### 🌐 Connect with Me:
@@ -84,4 +84,4 @@
 
 ### 💡 Fun Fact:
 
-When I'm not coding, I'm probably playing chess ♟️, exploring new AI tools 🤖, or automating life’s little tasks ☕.
+When I'm not shipping code, I'm probably playing chess ♟️, tinkering with AI agents 🤖, or automating something that definitely didn't need automating ☕.
