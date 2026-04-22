@@ -104,22 +104,6 @@ I prefer owning systems end-to-end:
 
 ---
 
-## 🧩 System Thinking (Example Architecture)
-
-User Input
-↓
-API Layer (FastAPI / Node)
-↓
-LLM Processing (OpenAI / Prompt Chains)
-↓
-Retrieval Layer (pgvector / DB)
-↓
-Post-processing & Business Logic
-↓
-Response / Automation Action
-
----
-
 ## 🛠 Tech Stack
 
 **Languages:** Python · TypeScript · SQL · C++  
