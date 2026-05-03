@@ -8,7 +8,7 @@ I build production-grade AI products — LLM workflows, RAG systems, agent-like 
 </p>
 
 <p align="center">
-  <a href="https://mokshitjain.jainparichay.in">Portfolio</a> ·
+  <a href="https://mokshit.jainparichay.in">Portfolio</a> ·
   <a href="https://linkedin.com/in/mokshit-jain">LinkedIn</a> ·
   <a href="mailto:mokshitjain18@gmail.com">Email</a>
 </p>
